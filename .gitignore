@@ -1,0 +1,19 @@
+# Dependências
+node_modules/
+
+# Ignorar arquivos temporários e logs
+*.log
+*.tmp
+
+# Ignorar ambientes virtuais
+venv/
+.env
+.env/local
+
+# Ignorar pasta de build
+dist/
+build/
+
+#Ignorar arquivos do SO
+Thumbs.db
+.DS_Store
